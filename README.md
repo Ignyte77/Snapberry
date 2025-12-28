@@ -1,5 +1,5 @@
-# Picam
-A Raspberry pi point and shoot camera with Raspberry Pi zero  2w and Arducam 64mp Owlsight (OV64A40)
+# Snapberry
+Snapberry is a Raspberry pi point and shoot camera with Raspberry Pi zero  2w and Arducam 64mp Owlsight (OV64A40)
 
 ![IMG-20251227-WA0000](https://github.com/user-attachments/assets/7477bae3-037d-4a5f-a002-1932d51ca378)
 
