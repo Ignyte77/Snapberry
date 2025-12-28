@@ -10,12 +10,18 @@ the good this is this leads to less noise and more dynamic range.
 
 ![IMG_20251227_120751](https://github.com/user-attachments/assets/a207ce34-9f20-4a87-a776-af71f85f39c7)
 
+# Connections-
+Shutter Button: GPIO 23
+Focus Up: GPIO 25
+Focus Down: GPIO 12
+Tally LED: GPIO 24 (with 220-330 ohm resistor)
 
  # IMPORTANT PART -
  the sensor apparently works only on Raspberry Pi OS 32bit lite other versions will not work with this setup.
- Follow arducam`s documentation to setup the camera for first use - https://docs.arducam.com/Raspberry-Pi-Camera/Native-camera/64MP-OV64A40/#1-system-configuration
- NOTE- this given command ( rpicam-still -t 5000 -o test.jpg ) wont work on the pi zero 2w because the software automatically choses the highest resolution for the picture. you have to specify your desired resolution yourself for it to work
- ( rpicam-jpeg --output test.jpg --timeout 8000 --width 4624 --height 3472 --autofocus-mode continuous )
+ Follow arducams documentation to setup the camera for first use - https://docs.arducam.com/Raspberry-Pi-Camera/Native-camera/64MP-OV64A40/#1-system-configuration
+ NOTE- this given command  ``` rpicam-still -t 5000 -o test.jpg ``` wont work on the pi zero 2w because the software automatically choses the highest resolution for the picture. you have to specify your desired resolution yourself for it to work 
+ 
+ ``` rpicam-jpeg --output test.jpg --timeout 8000 --width 4624 --height 3472 --autofocus-mode continuous ``` 
  this command works best for this setup, a resolution of 4624x3472 is perfect for the pi zero 2w without an error.
 
  # App use -
