@@ -34,6 +34,10 @@ this is kind of useful becuase the pi still takes 5-6 seconds to take a picture 
  in the website you can manually change the focus and see the preview at the top , and there is a capture button to take photos in 16mp 10 bit RAW.
  taking pictures takes upto 5-6 seconds becuase of the hardware limitations of the zero 2W.
  
+ ![IMG_20251229_115206](https://github.com/user-attachments/assets/cf3c2c72-d253-4390-a8ae-aea83dd9a722)
+ 
+
+ 
 
 
 
