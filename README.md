@@ -36,7 +36,21 @@ this is kind of useful becuase the pi still takes 5-6 seconds to take a picture 
  also the preview is set to a very low resolution for it to work much smoother and be lighter for the pi.
  
  ![IMG_20251229_115206](https://github.com/user-attachments/assets/cf3c2c72-d253-4390-a8ae-aea83dd9a722)
+
+ # Photo showcase -
+ Here are some pictures i took with this setup (The photos are edited)
  
+ ![1000242153](https://github.com/user-attachments/assets/4213dd0f-fe49-44d1-afee-b630495c8c37)
+
+ ![1000242154](https://github.com/user-attachments/assets/389f4bc7-c668-4ffd-ad32-60a09d489889)
+
+ ![1000242783](https://github.com/user-attachments/assets/b7e6634e-bb36-4365-b3da-3f6a7dd620e8)
+
+ ![1000242781](https://github.com/user-attachments/assets/aa48e624-cb9f-4a43-97a5-c15e938e6d9d)
+
+
+
+
 
  
 
