@@ -1,7 +1,8 @@
 # Snapberry
 Snapberry is a Raspberry pi point and shoot camera with Raspberry Pi zero  2w and Arducam 64mp Owlsight (OV64A40) which can shoot 10 bit RAW
 
-![IMG_20251229_112515 (1)](https://github.com/user-attachments/assets/3f26c904-e155-4eba-b9bd-895ce09dede4)
+![IMG_20251229_133059](https://github.com/user-attachments/assets/032804c7-376a-4af4-8b00-ff48e4eaadf1)
+
 
 
 The Camera consists of a Pi Zero 2W and the Arducam 64MP OwlSight OV64A40.
