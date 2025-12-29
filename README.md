@@ -33,6 +33,7 @@ this is kind of useful becuase the pi still takes 5-6 seconds to take a picture 
  i use my phone which is connected to the pi zero 2w with the phone hotspot so they are in the same local network and typing the given link from the script opened the camera interface.
  in the website you can manually change the focus and see the preview at the top , and there is a capture button to take photos in 16mp 10 bit RAW.
  taking pictures takes upto 5-6 seconds becuase of the hardware limitations of the zero 2W.
+ also the preview is set to a very low resolution for it to work much smoother and be lighter for the pi.
  
  ![IMG_20251229_115206](https://github.com/user-attachments/assets/cf3c2c72-d253-4390-a8ae-aea83dd9a722)
  
